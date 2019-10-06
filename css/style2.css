@@ -1,0 +1,95 @@
+body{
+    font-family: 'Oswald', sans-serif;
+/* font-family: 'Merriweather', serif; */
+}
+
+.title-underline {
+    width: 200px;
+    height: 5px;
+    margin: auto;
+}
+.height-80 {
+    min-height: 80vh;
+}
+.about-picture {
+    background: url(https://images.unsplash.com/1/work-stations-plus-espresso.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.height-100 {
+    min-height: 40vh;
+}
+#filler {
+    background: linear-gradient(to right, rgba(0,0,0,0.1),rgba(0,0,0,0.9)),url(https://images.unsplash.com/photo-1513147122760-ad1d5bf68cdb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* margin-right: 0; */
+}
+.new-height {
+    min-height: 80vh;
+}
+.new-title-underline {
+    width: 300px;
+    height: 10px;
+    margin: auto;
+
+}
+.height-90 {
+    min-height: 90vh;
+
+}
+.about-pic{
+    background: url(https://images.unsplash.com/photo-1547958600-915c8a5131de?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60z);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.about-text {
+    background-color: rgba(95, 58, 58, 0.1)
+}
+.c-height {
+    min-height: 80vh;
+    background-color: rgb(128, 177, 38)
+}
+.cu-height {
+    min-height: 80vh;
+    
+}
+.title-underline{
+    width: 170px;
+    height: 10px;
+    margin: auto;
+}
+.cus-underline {
+    width: 170px;
+    height: 7px;
+    margin: auto;
+}
+.height-70 {
+   min-height: 70vh;
+}
+.px-4 {
+    padding-left: 1.5rem !important;
+}
+.new-height {
+    min-height: 80vh;
+    
+}
+#progress {
+    background: url(https://images.unsplash.com/photo-1544758659-0680cb748e63?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1664&q=80);
+}
+.pricing-underline {
+    width: 200px;
+    height: 7px;
+    margin: auto;
+}
+.title-uderline {
+    width: 200px;
+    height: 7px;
+    margin: auto;
+}
